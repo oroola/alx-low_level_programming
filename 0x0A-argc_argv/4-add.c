@@ -45,6 +45,7 @@ int main(int argc, char *argv[])
 	int str_to_int;
 
 	int sum = 0;
+
 	count = 1;
 	while (count < argc) /*Goes through the whole array*/
 	{
@@ -106,10 +107,7 @@ int main(int argc, char *argv[])
 
 {
 
-	/*Declaring variables*/
-	int count;
-	int str_to_int;
-	int sum = 0;
+/*Declaring variables*/
 
 	count = 1;
 	while (count < argc) /*Goes through the whole array*/
